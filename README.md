@@ -633,6 +633,7 @@ Key Features
 Short App Description
 
 Expense Tracker Dashboard is a modern personal finance application that helps users monitor income, track expenses, manage budgets, analyze spending patterns, upload receipts, and generate financial reports through an intuitive dashboard, transaction management system, detailed statistics, and customizable profile settings. It provides a complete solution for maintaining financial discipline and achieving better money management.
+<img width="1536" height="1024" alt="PNG" src="https://github.com/user-attachments/assets/1cfd3201-27d3-425f-89b9-9cb8726c7c75" />
 
 
 
